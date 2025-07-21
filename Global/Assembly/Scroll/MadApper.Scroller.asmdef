@@ -1,0 +1,26 @@
+{
+    "name": "MadApper.Scroller",
+    "rootNamespace": "MadApper.Scroller",
+    "references": [
+        "MadApper.Essentials",
+        "FancyScrollView",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "FANCYSCROLL_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "jp.setchi.fancyscrollview",
+            "expression": "",
+            "define": "FANCYSCROLL_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

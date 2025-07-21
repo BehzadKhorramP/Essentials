@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ebf2b765c09a7f4588f3a8682e0885c, type: 3}
+  m_Name: EditorCommonAssets
+  m_EditorClassIdentifier: 
+  addIcon: {fileID: 2800000, guid: baaebe30b32b10446b52c5666e5ebb63, type: 3}
+  removeIcon: {fileID: 2800000, guid: 11baf14a82afc6e40b756a90fc0151f3, type: 3}
+  rotateIcon: {fileID: 2800000, guid: c1adddea798c7cd4c929ec6d84e84a21, type: 3}
+  GreenColor: {r: 0.10980392, g: 1, b: 0.5568628, a: 1}
+  RedColor: {r: 0.9308176, g: 0.3424705, b: 0.413767, a: 1}
+  YellowColor: {r: 1, g: 0.83137256, b: 0.24313726, a: 1}

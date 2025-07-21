@@ -1,0 +1,33 @@
+{
+    "name": "MadApper.Essentials",
+    "rootNamespace": "MadApper.Essentials",
+    "references": [
+        "Unity.TextMeshPro",
+        "UniTask",
+        "Unity.VisualScripting.Core",
+        "BrunoMikoski.AnimationSequencer",
+        "DOTween.Modules",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "MadApper.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.brunomikoski.animationsequencer",
+            "expression": "",
+            "define": "ANIMATIONSEQ_ENABLED"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "",
+            "define": "RP_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

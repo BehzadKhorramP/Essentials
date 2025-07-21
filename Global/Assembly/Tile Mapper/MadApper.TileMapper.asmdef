@@ -1,0 +1,26 @@
+{
+    "name": "MadApper.TileMapper",
+    "rootNamespace": "MadApper.TileMap",
+    "references": [
+        "UniTask",
+        "Unity.2D.Tilemap.Extras",
+        "MadApper.Grid"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TILEMAPPER_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.2d.tilemap.extras",
+            "expression": "",
+            "define": "TILEMAPPER_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

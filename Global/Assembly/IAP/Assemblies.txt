@@ -1,0 +1,8 @@
+Unity.Services.Core
+Unity.Services.Core.Environments
+UnityEngine.Purchasing
+UnityEngine.Purchasing.Codeless
+UnityEngine.Purchasing.Stores
+TextMeshPro
+BEH.Essentials
+UniTask

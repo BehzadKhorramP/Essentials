@@ -1,0 +1,18 @@
+{
+    "name": "MadApper.CPI.Hand",
+    "rootNamespace": "MadApper.CPI",
+    "references": [
+        "MadApper.Input",
+        "MadApper.Singleton",
+        "MadApper.Essentials"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

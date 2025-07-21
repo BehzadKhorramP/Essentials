@@ -1,0 +1,25 @@
+{
+    "name": "MadApper.VisualsPreset.RuleTile",
+    "rootNamespace": "MadApper.VisualsPreset",
+    "references": [
+        "Unity.2D.Tilemap.Extras",
+        "MadApper.VisualsPreset"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TILEMAPPER_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.2d.tilemap.extras",
+            "expression": "",
+            "define": "TILEMAPPER_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "BEH.Commands",
+    "rootNamespace": "BEH.Commands",
+    "references": [
+        "MadApper.Essentials",
+        "MadApper.Singleton",
+        "DOTween.Modules",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

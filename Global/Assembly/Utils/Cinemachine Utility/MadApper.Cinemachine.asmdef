@@ -1,0 +1,27 @@
+{
+    "name": "MadApper.Cinemachine",
+    "rootNamespace": "MadApper.Cinemachine",
+    "references": [
+        "Cinemachine",
+        "MadApper.Essentials",
+        "UniTask",
+        "Unity.Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "CINEMACHINE_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.cinemachine",
+            "expression": "",
+            "define": "CINEMACHINE_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

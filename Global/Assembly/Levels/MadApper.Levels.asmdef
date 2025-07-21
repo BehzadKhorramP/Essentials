@@ -1,0 +1,20 @@
+{
+    "name": "MadApper.Levels",
+    "rootNamespace": "MadApper.Levels",
+    "references": [
+        "MadApper.Essentials",
+        "UniTask",
+        "Unity.TextMeshPro",
+        "MadApper.Singleton",
+        "Unity.VisualScripting.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

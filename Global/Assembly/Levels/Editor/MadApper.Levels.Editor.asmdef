@@ -1,0 +1,22 @@
+{
+    "name": "MadApper.Levels.Editor",
+    "rootNamespace": "MadApper.Levels.Editor",
+    "references": [
+        "MadApper.Levels",
+        "MadApper.Essentials",
+        "BEH.Essentials",
+        "MadApperEditor.Common",
+        "MadApper.Bridge"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

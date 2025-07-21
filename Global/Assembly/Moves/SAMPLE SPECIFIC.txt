@@ -1,0 +1,48 @@
+using MadApper.Moves;
+using Sirenix.OdinInspector;
+using UnityEngine;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
+
+namespace MadApper {
+    public class LevelMoves : MonoBehaviour {
+        private void OnEnable() {
+            TrayEntity.onTrayMoveCompleted += OnMoveComplete;
+            GameEventManager.AddListener<LevelEntity>(GameEventType.LevelLoaded, OnLevelLoaded);
+            GameEventManager.AddListener(GameEventType.MoveUsed, OnMoveUsed);
+        }
+
+        private void OnDisable() {
+            TrayEntity.onTrayMoveCompleted -= OnMoveComplete;
+            GameEventManager.RemoveListener(GameEventType.MoveUsed, OnMoveUsed);
+            GameEventManager.RemoveListener<LevelEntity>(GameEventType.LevelLoaded, OnLevelLoaded);
+        }
+        [Button]
+        private async void OnMoveComplete(TrayEntity trayEntity) {
+            if (MovesSystem.HasMovesLeft == false) {
+                await ActivityManager.Instance.WaitIsStable();
+                GameEventManager.TriggerEvent(GameEventType.TriggerLoseCondition,LoseType.MovesOut);
+            }
+        }
+        private void OnMoveUsed() {
+
+            MovesSystem.TryUseMove();
+        }
+
+        private void OnLevelLoaded(LevelEntity levelEntity) {
+            if (!gameObject.activeInHierarchy) {
+                return;
+            }
+
+            LevelDataSO levelSO = levelEntity.LevelSO;
+
+            if (levelSO == null) {
+                return;
+            }
+
+            MovesSystem.Initialize(levelSO.Moves);
+        }
+
+    }
+}

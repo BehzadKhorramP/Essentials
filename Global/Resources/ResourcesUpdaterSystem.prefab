@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5824710335698971362
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6388336393892442627}
+  - component: {fileID: 844521416917436782}
+  - component: {fileID: 5063711548743767155}
+  - component: {fileID: 3454871045986484737}
+  - component: {fileID: 7458189726546382408}
+  m_Layer: 0
+  m_Name: ResourcesUpdaterSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6388336393892442627
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824710335698971362}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &844521416917436782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824710335698971362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed17568106e2f4846880718b9cfa2b0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_InitialValues:
+    m_AutoAssingedSO: {fileID: 11400000, guid: f548714fc9efef141b8f51fd98cacd99, type: 2}
+--- !u!114 &5063711548743767155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824710335698971362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b45a3128722e54142bcd3ee0bad48897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Placement: {fileID: 11400000, guid: b3736ba1e1161c846af263365ee004db, type: 2}
+  m_Payout: Initial
+--- !u!114 &3454871045986484737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824710335698971362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5156aaa46d6e6a4438e4434f66941602, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Placement: {fileID: 11400000, guid: b3736ba1e1161c846af263365ee004db, type: 2}
+  m_CurrencyUsed: 1
+--- !u!114 &7458189726546382408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5824710335698971362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b453cb1bed1894468eaf50979b98718, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Placement: {fileID: 11400000, guid: b3736ba1e1161c846af263365ee004db, type: 2}
+  m_Payout: Initial

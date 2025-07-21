@@ -1,0 +1,17 @@
+{
+    "name": "MadApper.Bridge",
+    "rootNamespace": "MadApper.Bridge",
+    "references": [
+        "MadApperEditor.Common",
+        "MadApper.Essentials"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

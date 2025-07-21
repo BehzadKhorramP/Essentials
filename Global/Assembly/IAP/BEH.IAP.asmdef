@@ -1,0 +1,32 @@
+{
+    "name": "BEH.IAP",
+    "rootNamespace": "BEH.IAP",
+    "references": [
+        "Unity.Services.Core",
+        "Unity.Services.Core.Environments",
+        "UnityEngine.Purchasing",
+        "UnityEngine.Purchasing.Codeless",
+        "UnityEngine.Purchasing.Stores",
+        "Unity.TextMeshPro",
+        "UniTask",
+        "BEH.Singleton",
+        "BEH.Essentials"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "IAP_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.purchasing",
+            "expression": "",
+            "define": "IAP_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

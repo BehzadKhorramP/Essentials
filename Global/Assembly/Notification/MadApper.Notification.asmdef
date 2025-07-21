@@ -1,0 +1,29 @@
+{
+    "name": "MadApper.Notification",
+    "rootNamespace": "MadApper.Notifications",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.Notifications.Unified",
+        "MadApper.Essentials",
+        "MadApper.Singleton",
+        "Unity.Notifications.iOS",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "NOTIFICATIONS_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.mobile.notifications",
+            "expression": "",
+            "define": "NOTIFICATIONS_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

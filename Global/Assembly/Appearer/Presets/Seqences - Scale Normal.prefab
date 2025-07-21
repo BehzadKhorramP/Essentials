@@ -1,0 +1,516 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &601145203644308385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.data[2]
+      value: 4128256351455674371
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.data[3]
+      value: 5353194858869162007
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.ScaleDOTweenAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.DOTweenAnimationStep
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.ScaleDOTweenAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.DOTweenAnimationStep
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.FadeCanvasGroupDOTweenAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].delay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].delay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].alpha
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].target
+      value: 
+      objectReference: {fileID: 3451913753117433780}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].target
+      value: 
+      objectReference: {fileID: 3451913753117433780}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].scale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].scale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].scale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].scale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].scale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].scale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].duration
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].flowType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].loopType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].duration
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].flowType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].loopType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162007].duration
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162007].flowType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].direction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].ease.ease
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].loopCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].direction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].ease.ease
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].loopCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].direction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].ease.ease
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].isRelative
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].isRelative
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].isRelative
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036346235617281].targetAlpha
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].axisConstraint
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].axisConstraint
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162007].actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507715].actions.Array.data[0]
+      value: 775035940011507716
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674371].actions.Array.data[0]
+      value: 4128256351455674372
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162007].actions.Array.data[0]
+      value: 775035940011507714
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162007].actions.Array.data[1]
+      value: 775035940011507714
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].ease.curve.m_PreInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].ease.curve.m_PreInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].ease.curve.m_PreInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].ease.curve.m_PostInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].ease.curve.m_PostInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].ease.curve.m_PostInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].ease.curve.m_RotationOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].ease.curve.m_RotationOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].ease.curve.m_RotationOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507714].ease.curve.m_Curve.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507716].ease.curve.m_Curve.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770947831121653635, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[4128256351455674372].ease.curve.m_Curve.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308624765857409318, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.data[1]
+      value: 775035940011507712
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.DOTweenAnimationStep
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.ScaleDOTweenAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].delay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].target
+      value: 
+      objectReference: {fileID: 3451913753117433780}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].scale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].scale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].scale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].duration
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].flowType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].loopType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].loopCount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].direction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].ease.ease
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].isRelative
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].axisConstraint
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507712].actions.Array.data[0]
+      value: 775035940011507713
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].ease.curve.m_PreInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].ease.curve.m_PostInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].ease.curve.m_RotationOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6609509569452010279, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775035940011507713].ease.curve.m_Curve.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.data[1]
+      value: 5353194858869162009
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: animationSteps.Array.data[2]
+      value: 5353194858869162009
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419]
+      value: BrunoMikoski.AnimationSequencer BrunoMikoski.AnimationSequencer.ScaleDOTweenAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162009].delay
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].scale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].scale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].scale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162009].duration
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162009].flowType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].direction
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].ease.ease
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].isRelative
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].axisConstraint
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162009].actions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[5353194858869162009].actions.Array.data[0]
+      value: 775036363142332419
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].ease.curve.m_PreInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].ease.curve.m_PostInfinity
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].ease.curve.m_RotationOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7301764996531106009, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: managedReferences[775036363142332419].ease.curve.m_Curve.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7812368052835126816, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+      propertyPath: m_Name
+      value: Seqences - Scale Normal
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+--- !u!1 &3451913753117433780 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2859815606029354005, guid: f9f7c0b4d7b15954aa32bce93436efb5, type: 3}
+  m_PrefabInstance: {fileID: 601145203644308385}
+  m_PrefabAsset: {fileID: 0}

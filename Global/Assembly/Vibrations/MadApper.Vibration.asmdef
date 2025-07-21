@@ -1,0 +1,19 @@
+{
+    "name": "MadApper.Vibration",
+    "rootNamespace": "MadApper",
+    "references": [
+        "Lofelt.NiceVibrations",
+        "MadApper.Essentials"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
